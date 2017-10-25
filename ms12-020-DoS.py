@@ -16,5 +16,6 @@ while(1):
 		i += 1
 	except: 
 		print "The Server is down"
+		print "good job"
 		exit()
 
